@@ -17,7 +17,7 @@ const data = [
     image: Image2,
     title: "Personal Portfolio",
     description: "This website was developed using React.js, as well as TailwindCSS, both of which I used to improve my skillset as a developer and work on being able to develop a more complex user interface with dynamic updates and a more responsive design.",
-    url: "https://github.com/leijason22/jason-lei-portfolio"
+    url: "https://github.com/leijason22/jason-portfolio"
   },
   {
     id: 3,
