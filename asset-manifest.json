@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/jason-portfolio/static/css/main.383d0258.css",
+    "main.js": "/jason-portfolio/static/js/main.c02c3e98.js",
+    "static/js/787.7d4e1040.chunk.js": "/jason-portfolio/static/js/787.7d4e1040.chunk.js",
+    "static/media/portfoliopic.png": "/jason-portfolio/static/media/portfoliopic.2cca1573451deddda03a.png",
+    "static/media/betterpixelsky.png": "/jason-portfolio/static/media/betterpixelsky.29194b9910c57d86109f.png",
+    "static/media/androidapp.png": "/jason-portfolio/static/media/androidapp.3f9e70fb1920062af98d.png",
+    "static/media/gcplogo.png": "/jason-portfolio/static/media/gcplogo.dade32d4d899f5e492e9.png",
+    "static/media/pythonlogo.png": "/jason-portfolio/static/media/pythonlogo.82efb64f8698a267f8bf.png",
+    "static/media/sillybuspic.png": "/jason-portfolio/static/media/sillybuspic.e16baf06d1c81b4439f8.png",
+    "static/media/nodejslogo.png": "/jason-portfolio/static/media/nodejslogo.fc3bd1ec69d7a50e685a.png",
+    "static/media/jasonwhisper.png": "/jason-portfolio/static/media/jasonwhisper.3704fa6ae430e00aabf9.png",
+    "static/media/jasonresume.pdf": "/jason-portfolio/static/media/jasonresume.1e34f262d148f077f727.pdf",
+    "static/media/jasonraisehand.png": "/jason-portfolio/static/media/jasonraisehand.6b1006f498e72197b121.png",
+    "static/media/jasoncallme.png": "/jason-portfolio/static/media/jasoncallme.fe980484f8ef97733311.png",
+    "static/media/jasonavatar.png": "/jason-portfolio/static/media/jasonavatar.38bf66ee5b5a249624ee.png",
+    "static/media/jasonexperience.png": "/jason-portfolio/static/media/jasonexperience.33607265dab101f5771b.png",
+    "static/media/jasonnobackground.png": "/jason-portfolio/static/media/jasonnobackground.61104ef3bb350cbc9d6e.png",
+    "static/media/flasklogo.png": "/jason-portfolio/static/media/flasklogo.1d18708b215b33729612.png",
+    "static/media/clanglogo.png": "/jason-portfolio/static/media/clanglogo.bf0af88d24cd724c83bc.png",
+    "static/media/csslogo.png": "/jason-portfolio/static/media/csslogo.443bc827ad57da012b4b.png",
+    "static/media/reactjslogo.png": "/jason-portfolio/static/media/reactjslogo.e71f4c5b0c4306d65355.png",
+    "static/media/javascriptlogo.png": "/jason-portfolio/static/media/javascriptlogo.266bd9fb2663dcc057b4.png",
+    "static/media/javalogo2.png": "/jason-portfolio/static/media/javalogo2.6c64373d3b7415758078.png",
+    "static/media/logo.svg": "/jason-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jason-portfolio/index.html",
+    "main.383d0258.css.map": "/jason-portfolio/static/css/main.383d0258.css.map",
+    "main.c02c3e98.js.map": "/jason-portfolio/static/js/main.c02c3e98.js.map",
+    "787.7d4e1040.chunk.js.map": "/jason-portfolio/static/js/787.7d4e1040.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.383d0258.css",
+    "static/js/main.c02c3e98.js"
+  ]
+}
