@@ -2,7 +2,7 @@
 .skills_container2,
 .skills_container3 {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     column-gap: 1.875rem;
 }
 
